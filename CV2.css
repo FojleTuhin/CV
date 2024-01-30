@@ -5,14 +5,14 @@
 }
 
 body {
-    background-color: antiquewhite;
+    background-color: #B7E5B4;
     font-family: 'Montserrat', sans-serif;
     font-family: 'Raleway', sans-serif;
 }
 
 .Container {
     max-width: 1000px;
-    background-color: aqua;
+    background-color: #83C0C1;
     margin: 0 auto;
 }
 
